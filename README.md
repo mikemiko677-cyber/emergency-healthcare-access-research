@@ -58,6 +58,12 @@ The complete research paper is available in this repository.
 
 The research paper contains the full reference list and sources used for this literature review.
 
+## Related Project
+
+This research is connected to my HealthReach prototype, which explores how digital technology could help improve communication and coordination during healthcare emergencies.
+
+🔗 **[View the HealthReach Live Prototype](https://mikemiko677-cyber.github.io/healthreach/)**
+
 ---
 
 **Independent student project — Ethiopia, 2026**
